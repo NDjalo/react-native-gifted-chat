@@ -1,5 +1,5 @@
 {
-  "name": "@Nassirou Djalo/GiftedChat",
+  "name": "@Nassirou/GiftedChat",
   "version": "0.16.4",
   "description": "The most complete chat UI for React Native",
   "main": "node_modules/expo/AppEntry.js",
